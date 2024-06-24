@@ -4,7 +4,7 @@
 
 <img align= "right" width= "270" src="assets/Kawai.gif"/>
 
-### 😉 <b>I'm White</b> 
+### 😉 <b>I'm WhiteLiu</b> 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> - Python developer, AI engineer and Open source contributor. Curiosity drives me, and I find joy in learning new things.
 
