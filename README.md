@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> - Python developer, AI engineer and Open source contributor. Curiosity drives me, and I find joy in learning new things.
 
 ### 😄 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
-[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](liucen05@163.com)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](whiteliu0505@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=&logo=X)](https://twitter.com/shouwangzhelcen)
 
 <img width="400" height="auto" align="right" alt="White's github stats" src="https://github-readme-stats.vercel.app/api?username=LcenArthas&show_icons=true&count_private=true&theme=gruvbox_light" />
